@@ -1,1 +1,1 @@
-# movie-project
+Aplicação para cadastro de filmes/séries.
